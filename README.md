@@ -1,21 +1,8 @@
-# Pílulas do Conhecimento — CGPL
+# Pílulas do Conhecimento – CGPL/SECOM/PR
 
-Página independente para divulgação das Notas Técnicas da Coordenação-Geral de Patrimônio e Logística (CGPL/SE/SECOM/PR).
+Atualização com 15 Pílulas em PNG, miniaturas otimizadas, documentos de referência, logo e tela de descanso.
 
-## Publicação no repositório `coletor-cgpl`
+## Publicação
+Envie **o conteúdo desta pasta**, preservando pastas `pilulas/` e `miniaturas/`, para a raiz do repositório `pilulas-cgpl` na branch `main`. Substitua `index.html`, `style.css` e `README.md` existentes. Os PDFs já estão inclusos com os mesmos nomes e podem ser mantidos sem alterações. O endereço GitHub Pages não muda.
 
-Copie a pasta `pilulas` inteira para a raiz do repositório e faça commit/push.
-
-Com GitHub Pages publicado a partir da branch `main` e da raiz (`/root`), a página ficará em:
-
-`https://sergioaguinaldoalves.github.io/coletor-cgpl/pilulas/`
-
-Esse é o endereço recomendado para o QR Code.
-
-## Estrutura
-
-- `index.html` — página das Pílulas do Conhecimento
-- `style.css` — identidade visual
-- `documentos/` — Notas Técnicas e anexos em PDF
-
-O Coletor Patrimonial existente não precisa ser alterado.
+Não crie uma pasta `pilulas-cgpl-atualizacao` dentro do repositório: `index.html` precisa ficar na raiz.
